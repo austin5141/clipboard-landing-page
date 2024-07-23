@@ -147,6 +147,13 @@ button:hover {
     color:hsl(210, 10%, 33%);
 }
 
+.devices {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:6rem;
+}
+
 li {
     color:hsl(201, 11%, 66%);
 }
@@ -243,6 +250,10 @@ footer {
     }
 
     .applications img {
+        width:25rem;
+    }
+
+    .devices img {
         width:25rem;
     }
 
